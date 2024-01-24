@@ -1,6 +1,11 @@
 ### Josué Ariel Izaguirre Mejia
-#### Estudiante de Cuarto Año de Ingeniería en Sistemas en UNAH
-#### Coordinador de TI
+#### Estudiante por Egresar de Ingeniería en Sistemas en UNAH
+#### Coordinador de TI | Webdev | Puzzle Solver
+
+- Improving Data Analysis skills
+- Love challenges
+- [My main playlist](https://open.spotify.com/playlist/7KkNguK8OtoElBXDjP8wk9?si=b8ac240ba08647a9)
+
 <!--
 **flynn1411/flynn1411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
